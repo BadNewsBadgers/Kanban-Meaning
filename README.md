@@ -23,3 +23,5 @@ iObeya.
 KanbanFlow.
 Kanban Tool
 Scrum
+
+In the automotive industry the alternative model was the "push" practice where they would produce goods and push them to the market. Kanban represents a "pull" system where the production is based on customer demand.
